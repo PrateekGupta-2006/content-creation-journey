@@ -10,9 +10,9 @@ Rather than spending months learning everything theoretically, I want to gain pr
 
 ## 🎯 Objectives
 
-- Learn video editing through hands-on practice.
+- Learn video editing through hands on practice.
 - Explore different content formats, trends, and creative styles.
-- Experiment with editing templates, transitions, music, and storytelling.
+- Experiment with editing templates, transitions, music and storytelling.
 - Understand Instagram and YouTube content ecosystems.
 - Learn audience engagement and content analytics.
 - Build consistency and develop my own creative style.
