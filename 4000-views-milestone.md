@@ -55,10 +55,15 @@ This milestone represents the progress I've made while experimenting with short 
  📈 Progress Tracking
 
 Milestone - Status
+
 First video published - Completed 
+
 First 1,000 views - Completed 
+
 4,000+ views - Achieved 
+
 10,000 views - Upcoming 
+
 100 videos published - Upcoming
 
 Final Thoughts
