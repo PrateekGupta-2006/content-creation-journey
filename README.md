@@ -45,10 +45,10 @@ Rather than spending months learning everything theoretically, I want to gain pr
 
 | Metric | Progress |
 |---|---|
-| Videos published | 8 on each platform|
+| Videos published | 11 on each platform|
 | Editing techniques learned | To be updated |
 | Content formats explored | To be updated |
-| Followers gained | 20 in total |
+| Followers gained | 22 in total |
 | Best performing video | To be updated |
 
 ## 💡 My Learning Philosophy
